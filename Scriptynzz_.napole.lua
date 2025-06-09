@@ -1,6 +1,4 @@
-
 -- SCRIPTYONEZZ1 - Volleyball Legends GUI Script
-
 if getgenv().YONEZZ_LOADED then return end
 getgenv().YONEZZ_LOADED = true
 
